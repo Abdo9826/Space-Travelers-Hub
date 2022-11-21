@@ -15,7 +15,7 @@ function App() {
   useEffect(() => {
     dispatch(Setmissions());
     dispatch(getRockets());
-  }, []);
+  }, [dispatch]);
 
   return (
     <BrowserRouter>
