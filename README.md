@@ -6,6 +6,11 @@ Space Xplore is a React-Redux application consists of Rockets, Missions, and the
 - See different Missions and Join any one.
 - Display your reserved rockets and joined missions in profile section.
 
+
+## Live server
+
+[live server](https://resilient-raindrop-678789.netlify.app/)
+
 # Screenshots
 
 
